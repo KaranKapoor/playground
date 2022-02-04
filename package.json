@@ -1,0 +1,30 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "playground staging area",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranKapoor/playground.git"
+  },
+  "keywords": [
+    "playground",
+    "node"
+  ],
+  "author": "Karan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaranKapoor/playground/issues"
+  },
+  "homepage": "https://github.com/KaranKapoor/playground#readme",
+  "dependencies": {
+    "@types/node": "^17.0.14",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
